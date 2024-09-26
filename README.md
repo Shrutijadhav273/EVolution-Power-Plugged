@@ -22,3 +22,10 @@ The app provides real-time availability of charging stations, allows users to sc
 1. Android Development: Java for Android (choose which you used).
 2. SQLite Database: To store and manage user data and booking history.
 3. Google Maps API: For location-based services and navigation.
+
+* Contact
+If you have any questions or feedback, feel free to reach out to me:
+
+Shruti Jadhav
+Email: shruti.jadhav@example.com
+
