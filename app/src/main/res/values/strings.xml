@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EVolution Charging Station</string>
+        <string name="open_nav">Open Navigation Drawer</string>
+        <string name="close_nav">Close Navigation Drawer</string>
+        <string name="my_map_api_key">AIzaSyC_eZP3Aj0r_Vv5tiPTL3er0jZ02gm1_lw</string>
+</resources>
