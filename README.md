@@ -27,5 +27,5 @@ The app provides real-time availability of charging stations, allows users to sc
 If you have any questions or feedback, feel free to reach out to me:
 
 Shruti Jadhav
-Email: shruti.jadhav@example.com
+Email: shrutijadhav969@gmail.com
 
